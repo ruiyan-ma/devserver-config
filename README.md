@@ -7,7 +7,6 @@ sudo dnf module enable nodejs:12
 
 sudo dnf module install nodejs:12
 ```
-
 ## cocnvim plugins
 
 coc-word coc-tabnine coc-snippets coc-marketplace coc-lightbulb coc-html coc-xml coc-vimlsp
