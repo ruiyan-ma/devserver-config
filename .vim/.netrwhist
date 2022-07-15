@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/data/users/ruiyanma/fbsource/fbcode/buck-out/dev/gen/aab7ed39/capella/sum/if-python-sum.thrift/gen-python/capella/sum/sum'
+let g:netrw_dirhist_2='/data/users/ruiyanma/fbsource/fbcode/thrift/facebook/example/sum'
