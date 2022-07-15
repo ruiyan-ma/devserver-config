@@ -1,3 +1,5 @@
+## Install node for coc.nvim
+
 ```
 sudo dnf module list nodejs
 
